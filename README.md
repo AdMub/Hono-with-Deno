@@ -43,7 +43,7 @@ Familiarity with JavaScript and TypeScript.
 
 A working development environment of VSCode.
 
-## 3.[Learning Outcomes](#Learning-Outcomes)
+##  [Learning Outcomes](#Learning-Outcomes)
 
 After completing this campaign, you will be able to:
 
@@ -53,7 +53,7 @@ Create protected routes with Hono.
 
 Include tests for your backend.
 
-## 4. [Quest Details](#Quest-Details)
+##  [Quest Details](#Quest-Details)
 
 ### Introduction
 
@@ -63,7 +63,7 @@ Creating, replacing, updating, and deleting data.
 
 Securing API endpoints using authentication and authorization.
 
-## 5. [Project Setup](#Project-Setup)
+##  [Project Setup](#Project-Setup)
 
 ### Requirements
 
@@ -92,7 +92,7 @@ bash:
 deno task serve
 
 
-## 6. [Steps](#Steps)
+##  [Steps](#Steps)
 
 ### Step 1: Cryptographic Logic
 
@@ -124,7 +124,7 @@ Implement registration and login endpoints for admin users.
 
 Use Postman to interact with the API.
 
-## 7. [Deliverables](#Deliverables)
+##  [Deliverables](#Deliverables)
 
 ![image3](https://github.com/user-attachments/assets/19a782a0-1868-4a48-81b4-5a3ae3578628)
 </br>
@@ -142,12 +142,12 @@ Use Postman to interact with the API.
 ![C46_Q3_engr_people](https://github.com/user-attachments/assets/09e22eb0-01a5-4eae-a247-0f5a103f97be)
 </br>
 
-## 8. [License](#license)
+##  [License](#license)
 
 This project is licensed under the MIT License.
 
 
-## 9. [Conclusion](#Conclusion)
+##  [Conclusion](#Conclusion)
 
 This project showcases the power of modern web development tools by combining Hono, a high-performance middleware framework, with Deno, a secure and developer-friendly runtime. By following the outlined steps, you have:
 

@@ -18,7 +18,7 @@ Welcome to the "Fuel Up Your API Development" campaign! This project introduces 
 9. [Conclusion](#Conclusion)
 
 
-## 1. Description
+## 1. [Description](#description)
 
 In this campaign, you will dive in and learn another middleware framework for backend development, Hono 🔥.
 Combined with the power of Deno 🦕, you will explore how to create backend APIs using Web standards.
@@ -35,7 +35,7 @@ Implement protected routes using authentication and authorization logic.
 
 Fuel up and begin your API development with Hono 🔥 and Deno 🦕.
 
-## [Prerequisites](#prerequisites)
+## 2. [Prerequisites](#prerequisites)
 
 To complete this quest, ensure you have:
 
@@ -43,7 +43,7 @@ Familiarity with JavaScript and TypeScript.
 
 A working development environment of VSCode.
 
-## 3. Learning Outcomes
+## 3. [Learning Outcomes](#Learning-Outcomes)
 
 After completing this campaign, you will be able to:
 
@@ -53,7 +53,7 @@ Create protected routes with Hono.
 
 Include tests for your backend.
 
-## 4. Quest Details
+## 4. [Quest Details](#Quest-Details)
 
 ### Introduction
 
@@ -63,7 +63,7 @@ Creating, replacing, updating, and deleting data.
 
 Securing API endpoints using authentication and authorization.
 
-## 5. Project Setup
+## 5. [Project Setup](#Project-Setup)
 
 ### Requirements
 
@@ -91,18 +91,8 @@ bash:
 
 deno task serve
 
-## 6. Deliverables
 
-![image3](https://github.com/user-attachments/assets/19a782a0-1868-4a48-81b4-5a3ae3578628)
-</br>
-![image4](https://github.com/user-attachments/assets/a97da1ee-34f9-410d-8242-607e568e5d7e)
-</br>
-![image3_1](https://github.com/user-attachments/assets/0919c053-0c59-4a21-a729-0169f34977a3)
-</br>
-![image4_1](https://github.com/user-attachments/assets/19ba58bb-27d4-4e84-8186-265eae7dcf01)
-</br>
-
-## 7. Steps
+## 6. [Steps](#Steps)
 
 ### Step 1: Cryptographic Logic
 
@@ -134,6 +124,17 @@ Implement registration and login endpoints for admin users.
 
 Use Postman to interact with the API.
 
+## 7. [Deliverables](#Deliverables)
+
+![image3](https://github.com/user-attachments/assets/19a782a0-1868-4a48-81b4-5a3ae3578628)
+</br>
+![image4](https://github.com/user-attachments/assets/a97da1ee-34f9-410d-8242-607e568e5d7e)
+</br>
+![image3_1](https://github.com/user-attachments/assets/0919c053-0c59-4a21-a729-0169f34977a3)
+</br>
+![image4_1](https://github.com/user-attachments/assets/19ba58bb-27d4-4e84-8186-265eae7dcf01)
+</br>
+
 ### Step 7: Final Submission
 
 ![C46_Q3_engr_pet_details](https://github.com/user-attachments/assets/47901a57-324c-4433-882c-b1d9f4364e4c)
@@ -141,12 +142,12 @@ Use Postman to interact with the API.
 ![C46_Q3_engr_people](https://github.com/user-attachments/assets/09e22eb0-01a5-4eae-a247-0f5a103f97be)
 </br>
 
-## 8. License
+## 8. [License](#license)
 
 This project is licensed under the MIT License.
 
 
-## 9. Conclusion
+## 9. [Conclusion](#Conclusion)
 
 This project showcases the power of modern web development tools by combining Hono, a high-performance middleware framework, with Deno, a secure and developer-friendly runtime. By following the outlined steps, you have:
 

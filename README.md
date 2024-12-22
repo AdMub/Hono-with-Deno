@@ -18,7 +18,7 @@ Welcome to the "Fuel Up Your API Development" campaign! This project introduces 
 9. [Conclusion](#Conclusion)
 
 
-## 1. [Description](#description)
+##  [Description](#description)
 
 In this campaign, you will dive in and learn another middleware framework for backend development, Hono 🔥.
 Combined with the power of Deno 🦕, you will explore how to create backend APIs using Web standards.
@@ -35,7 +35,7 @@ Implement protected routes using authentication and authorization logic.
 
 Fuel up and begin your API development with Hono 🔥 and Deno 🦕.
 
-## 2. [Prerequisites](#prerequisites)
+##  [Prerequisites](#prerequisites)
 
 To complete this quest, ensure you have:
 
@@ -43,7 +43,7 @@ Familiarity with JavaScript and TypeScript.
 
 A working development environment of VSCode.
 
-## 3. [Learning Outcomes](#Learning-Outcomes)
+## 3.[Learning Outcomes](#Learning-Outcomes)
 
 After completing this campaign, you will be able to:
 

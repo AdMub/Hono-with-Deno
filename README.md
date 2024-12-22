@@ -35,7 +35,7 @@ Implement protected routes using authentication and authorization logic.
 
 Fuel up and begin your API development with Hono 🔥 and Deno 🦕.
 
-## 2. Prerequisites
+## [Prerequisites](#prerequisites)
 
 To complete this quest, ensure you have:
 
